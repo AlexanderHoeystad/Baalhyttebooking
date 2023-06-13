@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Baalhyttebooking
 {
-    internal class Person
+    internal class Boernegruppe
     {
     }
 }
